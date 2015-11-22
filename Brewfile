@@ -19,6 +19,7 @@ brew docker-machine
 brew docker-machine-parallels
 brew fish
 brew lzo
+brew nvm
 brew openssl
 brew pcre
 brew readline
