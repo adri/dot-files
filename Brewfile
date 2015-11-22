@@ -1,8 +1,8 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
-tap caskroom/cask
+## Caskroom/cask
+tap Caskroom/cask
 brew brew-cask
 cask 1password
 cask caffeine
@@ -10,14 +10,19 @@ cask lunchy
 cask phpstorm
 cask tuntap
 
+## caskroom/cask
+tap caskroom/cask
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew disk-inventory-x
 brew docker-machine
 brew docker-machine-parallels
 brew fish
+brew google-chrome
 brew lzo
 brew nvm
 brew openssl
