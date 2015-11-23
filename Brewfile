@@ -31,6 +31,7 @@ brew openssl
 brew pcre
 brew readline
 brew socat
+brew tig
 brew tinc
 brew watch
 
