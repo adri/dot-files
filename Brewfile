@@ -18,11 +18,13 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew cask
 brew disk-inventory-x
 brew docker-machine
 brew docker-machine-parallels
 brew fish
 brew google-chrome
+brew iterm2
 brew lzo
 brew nvm
 brew openssl
