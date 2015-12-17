@@ -5,13 +5,23 @@
 tap Caskroom/cask
 brew brew-cask
 cask 1password
+cask aerial
 cask caffeine
+cask licecap
+cask little-snitch
 cask lunchy
+cask nvalt
 cask phpstorm
+cask the-unarchiver
 cask tuntap
 
 ## caskroom/cask
 tap caskroom/cask
+
+## caskroom/versions
+tap caskroom/versions
+cask dash2
+cask sublime-text3
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -29,6 +39,7 @@ brew lzo
 brew nvm
 brew openssl
 brew pcre
+brew prettyping
 brew readline
 brew socat
 brew tig
