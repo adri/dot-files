@@ -7,6 +7,9 @@ brew brew-cask
 cask 1password
 cask aerial
 cask caffeine
+cask disk-inventory-x
+cask google-chrome
+cask iterm2
 cask licecap
 cask little-snitch
 cask lunchy
@@ -14,9 +17,6 @@ cask nvalt
 cask phpstorm
 cask the-unarchiver
 cask tuntap
-cask disk-inventory-x
-cask google-chrome
-cask iterm2
 
 ## caskroom/cask
 tap caskroom/cask
@@ -44,6 +44,7 @@ brew readline
 brew socat
 brew tig
 brew tinc
+brew vagrant
 brew watch
 
 # App Store applications
