@@ -14,6 +14,9 @@ cask nvalt
 cask phpstorm
 cask the-unarchiver
 cask tuntap
+cask disk-inventory-x
+cask google-chrome
+cask iterm2
 
 ## caskroom/cask
 tap caskroom/cask
@@ -29,12 +32,9 @@ brew brew-file
 
 # Other Homebrew packages
 brew cask
-brew disk-inventory-x
 brew docker-machine
 brew docker-machine-parallels
 brew fish
-brew google-chrome
-brew iterm2
 brew lzo
 brew nvm
 brew openssl
